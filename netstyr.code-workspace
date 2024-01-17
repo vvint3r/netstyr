@@ -1,0 +1,111 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": false,
+	"editor.fontSize": 18,
+	"settings": {
+		"apc.electron": {
+			"frame": false,
+		},
+		"apc.statusBar": {
+			"position": "bottom",
+			"height": 30,
+			"fontSize": 13,
+			"itemSize": 30,
+			"itemMargin": 1,
+			"itemPadding": 2,
+			"itemOpacity": 0.5,
+			"itemHoverOpacity": 1,
+			"statusBarIconsAlignment": "center",
+			"font-family": "Fira Code"
+		},
+		"apc.menubar": {
+			"position": "top",
+			"height": 22,
+			"fontSize": 13
+		},
+		"apc.menubar.compact": true,
+		"apc.header": {
+			"compact": 22,
+			"height": 22,
+			"fontSize": 15,
+			"font-family": "Fira Code"
+		},
+		"apc.activityBar": {
+			"position": "bottom",
+			"font-size": 14,
+			"size": 38,
+			"itemSize": 34,
+			"itemMargin": 1,
+			"itemPadding": 1,
+			"itemOpacity": 0.5,
+			"itemHoverOpacity": 1,
+			"font-family": "Fira Code"
+		},
+		"editor.indentSize": "tabSize",
+		"apc.sidebar.titlebar": {
+			"fontSize": 13,
+			"height": 32,
+			"font-family": "Fira Code"
+		},
+		"apc.sidebar": {
+			"font-size": 14,
+		},
+		"apc.buttons": [
+			
+		],
+		"apc.listRow": {
+			"fontSize": 13,
+			"height": 21,
+			"font-family": "Fira Code"
+		},
+		"apc.monospace.font.family": "Fira Code",
+		"apc.openedEditors": {
+			"fontSize": 13,
+			"height": 21
+		},
+		"apc.theme": [
+			
+		],
+		"window.titleBarStyle": "hiddenInset",
+		"titleBarOverlay": true,
+		"apc.font.family": "Fira Code",
+		"window.commandCenter": false,
+		"workbench.colorCustomizations": {
+        "[GitHub Dark Default]": {
+			"contrastActiveBorder": "#c9ffe5",
+			"contrastBorder": "#000000",
+			"editor.background": "#0c0c0c",
+			"breadcrumb.background": "#030924",
+			"breadcrumb.foreground": "#FFFFFF",
+			"breadcrumb.focusForeground": "#4e4e4e",
+			"editorOverviewRuler.errorForeground": "#fea904",
+			"editorOverviewRuler.rangeHighlightForeground": "#000000",
+			"titleBar.border": "#000000",
+			"window.activeBorder": "#000000",
+			"widget.border": "#000000",
+			"panel.border": "#000000",
+			"editorGroupHeader.tabsBorder": "#000000",
+			"panelSection.border": "#000000",
+			"banner.background": "#030924",
+            "banner.foreground": "#000000",
+			"tab.border": "#000000",
+			"panelTitle.activeBorder": "#000000",
+			"editorGroup.border":"#000000",
+			"statusBar.background": "#030924",
+			"sideBar.border": "#000000",
+			"activityBar.border": "#000000",
+			"sideBarSectionHeader.border": "#000000",
+		},
+		"selection.background": "#181818",
+		"contrastActiveBorder": "#ffffff",
+		"contrastBorder": "#ffffff"
+		},
+	}
+
+}
